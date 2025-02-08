@@ -1,6 +1,3 @@
-Sure! Here’s a well-structured **README.md** for your **CP4 (Competitive Programming 4)** repository. It includes a professional and clean layout, an introduction, usage instructions, and more.
-
----
 
 ### **📌 Competitive Programming 4 (CP4) - Problem Solutions**
 #### **🚀 Mastering Problem Solving with CP4**
