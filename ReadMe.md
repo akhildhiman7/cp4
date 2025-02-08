@@ -87,7 +87,7 @@ This repository is primarily for my own learning, but if you'd like to contribut
 ## **📩 Contact**
 Got any questions or want to discuss problem-solving strategies? Feel free to reach out!  
 📧 **Email:** akhilxd1@gmail.com  
-🐦 **Twitter:** [@akhilxd](https://twitter.com/akhilxd)  
+🐦 **Twitter:** [@akhilxd1](https://twitter.com/akhilxd1)  
 💼 **LinkedIn:** [Akhil .](https://linkedin.com/in/akhildhiman)
 
 ---
