@@ -7,4 +7,5 @@ add_executable(ProblemSolving main.cpp
         stdc++.h
         cp4Practice.cpp
         UVA/Uva10646.cpp
-        utils.h)
+        utils.h
+        UVA/Uva10388.cpp)

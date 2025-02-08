@@ -6,5 +6,6 @@
 #define UTILS_H
 
 void solve10646();
+void solve10388();
 
 #endif //UTILS_H

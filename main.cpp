@@ -27,6 +27,7 @@
 
 int main() {
 
-    solve10646();
+    // solve10646();
+    solve10388();
     return 0;
 }

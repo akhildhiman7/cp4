@@ -67,6 +67,12 @@ build CMakeFiles/ProblemSolving.dir/UVA/Uva10646.cpp.o: CXX_COMPILER__ProblemSol
   OBJECT_DIR = CMakeFiles/ProblemSolving.dir
   OBJECT_FILE_DIR = CMakeFiles/ProblemSolving.dir/UVA
 
+build CMakeFiles/ProblemSolving.dir/UVA/Uva10388.cpp.o: CXX_COMPILER__ProblemSolving_unscanned_Debug /Users/akhil/CLionProjects/ProblemSolving/UVA/Uva10388.cpp || cmake_object_order_depends_target_ProblemSolving
+  DEP_FILE = CMakeFiles/ProblemSolving.dir/UVA/Uva10388.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/ProblemSolving.dir
+  OBJECT_FILE_DIR = CMakeFiles/ProblemSolving.dir/UVA
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ProblemSolving
@@ -75,7 +81,7 @@ build CMakeFiles/ProblemSolving.dir/UVA/Uva10646.cpp.o: CXX_COMPILER__ProblemSol
 #############################################
 # Link the executable ProblemSolving
 
-build ProblemSolving: CXX_EXECUTABLE_LINKER__ProblemSolving_Debug CMakeFiles/ProblemSolving.dir/main.cpp.o CMakeFiles/ProblemSolving.dir/cp4Practice.cpp.o CMakeFiles/ProblemSolving.dir/UVA/Uva10646.cpp.o
+build ProblemSolving: CXX_EXECUTABLE_LINKER__ProblemSolving_Debug CMakeFiles/ProblemSolving.dir/main.cpp.o CMakeFiles/ProblemSolving.dir/cp4Practice.cpp.o CMakeFiles/ProblemSolving.dir/UVA/Uva10646.cpp.o CMakeFiles/ProblemSolving.dir/UVA/Uva10388.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk
   OBJECT_DIR = CMakeFiles/ProblemSolving.dir
   POST_BUILD = :
