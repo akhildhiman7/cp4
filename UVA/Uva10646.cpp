@@ -2,8 +2,8 @@
 // Created by Akhil on 2025-02-08.
 //
 
-#include "stdc++.h"
-#include "utils.h"
+#include "../stdc++.h"
+#include "../utils.h"
 using namespace std;
 
 vector<string> split(string s, char del) {
