@@ -9,4 +9,5 @@ add_executable(ProblemSolving main.cpp
         UVA/Uva10646.cpp
         utils.h
         UVA/Uva10388.cpp
-        UVA/Uva11678.cpp)
+        UVA/Uva11678.cpp
+        UVA/Uva12247.cpp)

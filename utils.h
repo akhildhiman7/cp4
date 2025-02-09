@@ -8,5 +8,6 @@
 void solve10646();
 void solve10388();
 void solve11678();
+void solve12247();
 
 #endif //UTILS_H
