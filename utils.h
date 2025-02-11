@@ -10,4 +10,6 @@ void solve10388();
 void solve11678();
 void solve12247();
 
+void bela();
+
 #endif //UTILS_H

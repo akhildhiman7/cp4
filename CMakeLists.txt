@@ -10,4 +10,5 @@ add_executable(ProblemSolving main.cpp
         utils.h
         UVA/Uva10388.cpp
         UVA/Uva11678.cpp
-        UVA/Uva12247.cpp)
+        UVA/Uva12247.cpp
+        Kattis/bela.cpp)

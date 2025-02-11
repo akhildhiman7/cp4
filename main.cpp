@@ -30,6 +30,8 @@ int main() {
     // solve10646();
     // solve10388();
     // solve11678();
-    solve12247();
+    // solve12247();
+
+    bela();
     return 0;
 }
